@@ -1,4 +1,4 @@
-# Data Driven Modelling &Scientific Computation
+# Data Driven Modelling & Scientific Computation
 
 Material and worked examples from Nathan Kutz's book: Data Driven Modelling & Scientific Computation
 
